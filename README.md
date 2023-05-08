@@ -35,7 +35,7 @@
 |42元|420G|不限|不限|
 |69元|750G|不限|不限|
 
-### 3. xrelay （推荐指数：:heart::heart::heart:）
+### 3. xrelay （推荐指数：:heart::heart::heart::heart:）
 **[xrelay官网](https://xrelay.net/#/register?code=Nhd5iIRb)**
 
 新手友好，**注册就送5G试用流量**，不好用不要钱。优惠码：*imdd20* 年付8折。
