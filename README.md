@@ -81,7 +81,7 @@
 ### Selom Network
 **[Selom Network官网](https://www.selom.xyz/#/register?code=wEwCjJyA)**
 
-少有的可用国内网络直接登陆机场，价格也很便宜，并且有优惠码：5off。
+少有的**国内网络就可正常访问官网**，价格也很便宜，并且有优惠码：*5off*。
 
 **套餐：** 其他套餐可官网自查。
 |价格|流量（月）|速率（Mbps）|支持设备个数|
