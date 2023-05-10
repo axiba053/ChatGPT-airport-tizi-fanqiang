@@ -84,7 +84,7 @@
 |23元/月|388G|不限|5|
 |98元|238G（不限时间）|不限|5|
 
-### 2. Selom Network（推荐指数：:heart::heart::heart:）
+### 2. Selom Network（推荐指数：:heart::heart::heart::heart:）
 少有的**国内网络就可正常访问官网**，价格也很便宜，并且有优惠码：*5off*。
 
 **[Selom Network官网](https://www.selom.xyz/#/register?code=wEwCjJyA)**
