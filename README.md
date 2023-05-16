@@ -21,8 +21,18 @@
 |4元/月|4000G|不限|不限|
 |6元/月|8000G|不限|不限|
 
+### 2. Selom Network（推荐指数：:heart::heart::heart::heart:）
+我用过的唯二**国内网络就可正常访问官网**，价格也很便宜，并且有优惠码：*5off*，也可按量收费。
 
-### 2. 魔戒（推荐指数：:heart::heart::heart::heart:）
+**[Selom Network官网](https://www.selom.xyz/#/register?code=wEwCjJyA)**
+
+**套餐：** 其他套餐可官网自查。
+|价格|流量（月）|速率（Mbps）|支持设备个数|
+|:--:|--:|--:|--:|
+|10元/月|160G|不限|不限|
+|20元/月|400G|不限|不限|
+
+### 3. 魔戒（推荐指数：:heart::heart::heart::heart:）
 如果平时用的流量很少，这款机场很适合你，按量收费，没有期限，用完为止。
 
 **[魔戒官网](https://www.mojie.me/#/register?code=xM2QHHTx)**
@@ -34,7 +44,7 @@
 |14.9元|130G|不限|不限|
 |42元|420G|不限|不限|
 
-### 3. xrelay （推荐指数：:heart::heart::heart::heart:）
+### 4. xrelay （推荐指数：:heart::heart::heart:）
 **[xrelay官网](https://xrelay.net/#/register?code=Nhd5iIRb)**
 
 新手友好，**注册就送5G试用流量**，不好用不要钱。优惠码：*imdd20* 年付8折。
@@ -45,7 +55,7 @@
 |15元/月|108G|不限|4|
 |20元/月|188G|不限|6|
 
-### 4. FLYINGBIRD(飞鸟)（推荐指数：:heart::heart:）
+### 5. FLYINGBIRD(飞鸟)（推荐指数：:heart::heart:）
 网络比一元机场稳定，节点很多，同时支持多个流媒体服务，价格也比较亲民。
 
 **[飞鸟官网](https://www.fyb-aff.com/auth/register?code=NKgL)**
@@ -56,7 +66,7 @@
 |15元/月|100G|不限|不限|
 |30元/月|200G|不限|不限|
 
-### 5. wgetCloud（推荐指数：:heart::heart:）
+### 6. wgetCloud（推荐指数：:heart::heart:）
 老牌高端翻墙机场，追求极致稳定，安全，有自己定制客户端，价格也很极致。新用户8折，体验了一个月，确实稳得一批。
 
 **[wgetcloud官网](https://invite.wgetcloud.ltd/auth/register?code=vUdD)**
@@ -71,7 +81,18 @@
 
 ## 二、 其他高性价比机场
 
-### 1. 奈云（推荐指数：:heart::heart::heart:）
+### 1. 桔子云（推荐指数：:heart::heart::heart:）
+老牌翻墙服务商，即便是敏感时期，稳定性也有保证，不担心被封锁。
+
+**[桔子云官网](https://juzi69.com/auth/register?code=Kw0u)**
+
+**套餐：** 其他套餐可官网自查。
+|价格|流量（月）|速率（Mbps）|支持设备个数|
+|:--:|--:|--:|--:|
+|19.9元/月|100G|60|3|
+|29.9元/月|150G|300|5|
+
+### 2. 奈云（推荐指数：:heart::heart::heart:）
 除了常规包月套餐，奈云也有按量付费流量包，不限制时长，用完即止。
 
 **[奈云官网](https://www.v2ny.top/#/register?code=q9ymUNCv)**
@@ -83,18 +104,8 @@
 |23元/月|388G/月|不限|5|
 |98元|238G（不限时间）|不限|5|
 
-### 2. Selom Network（推荐指数：:heart::heart::heart::heart:）
-少有的**国内网络就可正常访问官网**，价格也很便宜，并且有优惠码：*5off*。
 
-**[Selom Network官网](https://www.selom.xyz/#/register?code=wEwCjJyA)**
-
-**套餐：** 亦可按量收费，其他套餐可官网自查。
-|价格|流量（月）|速率（Mbps）|支持设备个数|
-|:--:|--:|--:|--:|
-|10元/月|160G|不限|不限|
-|20元/月|400G|不限|不限|
-
-### 3. 瑶瑶の专线（推荐指数：:heart::heart::heart:）
+### 3. 瑶瑶の专线（推荐指数：:heart::heart:）
 小仙女专用机场，提供3元/14天的12G试用套餐，注册就送1元。
 
 **[瑶瑶の专线官网](https://yyssr.org/auth/register?code=WFAY)**
@@ -105,18 +116,6 @@
 |3元/14天|12G|80|1|
 |16元/月|128G|80|2|
 |26.9元/月|480G|300|3|
-
-
-### 4. 桔子云（推荐指数：:heart::heart:）
-老牌翻墙服务商，即便是敏感时期，稳定性也有保证，不担心被封锁。
-
-**[桔子云官网](https://juzi69.com/auth/register?code=Kw0u)**
-
-**套餐：** 其他套餐可官网自查。
-|价格|流量（月）|速率（Mbps）|支持设备个数|
-|:--:|--:|--:|--:|
-|19.9元/月|100G|60|3|
-|29.9元/月|150G|300|5|
 
 
 -----
