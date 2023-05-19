@@ -22,7 +22,7 @@
 |6元/月|8000G|不限|不限|
 
 ### 2. Selom Network（推荐指数：:heart::heart::heart:）
-我用过的唯二**国内网络就可正常访问官网**，价格也很便宜，并且有优惠码：*5off*，也可按量收费。
+**国内网络就可正常访问官网**，价格也很便宜，并且有优惠码：*5off*，也可按量收费。
 
 **[Selom Network官网](https://www.selom.xyz/#/register?code=wEwCjJyA)**
 
