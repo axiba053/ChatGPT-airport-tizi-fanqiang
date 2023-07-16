@@ -81,7 +81,7 @@
 
 ## 二、 其他高性价比机场
 
-### 1. 桔子云（推荐指数：:heart::heart::heart:）
+### 1. 桔子云（推荐指数：:heart::heart::heart::heart:）
 老牌翻墙服务商，即便是敏感时期，稳定性也有保证，不担心被封锁。
 
 **[桔子云官网](https://juzi69.com/auth/register?code=Kw0u)**
