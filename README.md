@@ -123,9 +123,9 @@
 
 ## 客户端下载地址
 
-* Windows: [Clash for windows](https://sabrinathings.lanzouj.com/i1O3X1chr1wb)
-*  macOS:[clashX](https://hollywood.lanzouj.com/iKJ4d16ray9i)
-*  安卓：[clash for android](https://hollywood.lanzouj.com/izx2H16st2xa)
+* Windows: [Clash for windows](https://sabrinathings.lanzouj.com/i1O3X1chr1wb)；[V2ray客户端](https://wwi.lanzoui.com/icv7Idzymkj)
+*  macOS:[clashX](https://hollywood.lanzouj.com/iKJ4d16ray9i)；[V2ray客户端](https://wwi.lanzoub.com/iblgb1brmjri)
+*  安卓：[clash for android](https://hollywood.lanzouj.com/izx2H16st2xa)；[V2ray客户端](https://wwi.lanzoub.com/iByKX1bst70h)
 *  iOS: [clash for iOS](https://apps.apple.com/app/stash/id1596063349)
 
 -----
