@@ -123,9 +123,9 @@
 
 ## 客户端下载地址
 
-* Windows: [Clash for windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)
-*  macOS:[clashX](https://github.com/yichengchen/clashX/releases)
-*  安卓：[clash for android](https://github.com/Kr328/ClashForAndroid/releases)
+* Windows: [Clash for windows](https://sabrinathings.lanzouj.com/i1O3X1chr1wb)
+*  macOS:[clashX](https://hollywood.lanzouj.com/iKJ4d16ray9i)
+*  安卓：[clash for android](https://hollywood.lanzouj.com/izx2H16st2xa)
 *  iOS: [clash for iOS](https://apps.apple.com/app/stash/id1596063349)
 
 -----
