@@ -9,7 +9,7 @@
 
 ## 一、 用过的
 
-### 1. 魔戒（推荐指数：:heart::heart::heart:）
+### 1. 魔戒（推荐指数：⭐⭐⭐）
 如果平时用的流量很少，这款机场很适合你，按量收费，没有期限，用完为止。
 
 **[魔戒官网](https://www.mojie.me/#/register?code=xM2QHHTx)**
@@ -21,7 +21,7 @@
 |14.9元|130G|不限|不限|
 |42元|420G|不限|不限|
 
-### 2. taishan（推荐指数：:heart::heart::heart::heart:）
+### 2. taishan（推荐指数：⭐⭐⭐⭐）
 最近魔戒速度及稳定性都有所下降，所以找了一个新的，连接更稳定。性价比也很高，既有包月也有按量。并且**注册就送5G试用流量**，时效一天。
 
 **[taishan官网](https://www.taishan.pro/#/register?code=GDXm09Ap)**
@@ -33,7 +33,7 @@
 |10元/月|128G|不限|不限|
 |25元|150G(不限时间)|不限|不限|
 
-### 3. xrelay （推荐指数：:heart::heart::heart:）
+### 3. xrelay （推荐指数：⭐⭐⭐）
 **[xrelay官网](https://xrelay.net/#/register?code=Nhd5iIRb)**
 
 新手友好，**注册就送5G试用流量**，时效一天，不好用再换其他机场。**国内网络就可访问官网**。优惠码：*imdd20* 年付8折。
@@ -45,7 +45,7 @@
 |20元/月|188G|不限|6|
 
 
-### 4. wgetCloud（推荐指数：:heart::heart::heart:）
+### 4. wgetCloud（推荐指数：⭐⭐⭐）
 老牌高端翻墙机场，追求极致稳定，安全，有自己定制客户端，价格也很极致。新用户8折，体验了一个月，确实稳得一批。
 
 **[wgetcloud官网](https://invite.wgetcloud.ltd/auth/register?code=vUdD)**
@@ -57,7 +57,7 @@
 |59元/月|200G|300|3|
 |69元/月|500G|500|3|
 
-### 5. 一元机场（推荐指数：:heart::heart::heart:）
+### 5. 一元机场（推荐指数：⭐⭐）
 一年只要12元，名如其人，价格如白捡。当然缺点也很明显，网络不够稳定，但是查阅文献够用了。正所谓一白遮百丑，除了便宜之外，它还有个优点，**国内网络就可正常访问官网**。
 
 **[一元机场官网](https://一元机场.com/#/register?code=lTWrqxDL)**
@@ -74,7 +74,7 @@
 
 ## 二、 其他高性价比机场
 
-### 1. 桔子云（推荐指数：:heart::heart::heart::heart:）
+### 1. 桔子云（推荐指数：⭐⭐⭐⭐）
 老牌翻墙服务商，即便是敏感时期，稳定性也有保证，不担心被封锁。
 
 **[桔子云官网](https://juzi69.com/auth/register?code=Kw0u)**
@@ -85,7 +85,7 @@
 |19.9元/月|100G|60|3|
 |29.9元/月|150G|300|5|
 
-### 2. 奈云（推荐指数：:heart::heart::heart:）
+### 2. 奈云（推荐指数：⭐⭐⭐）
 除了常规包月套餐，奈云也有按量付费流量包，不限制时长，用完即止。
 
 **[奈云官网](https://www.v2ny.top/#/register?code=q9ymUNCv)**
@@ -97,7 +97,7 @@
 |28元/月|388G/月|不限|5|
 |49元/月|788G/月|不限|5|
 
-### 3. InfiniPort（推荐指数：:heart::heart:）
+### 3. InfiniPort（推荐指数：⭐⭐）
 低调小众机场，价格优惠，且可以按量购买不限时。
 
 **[InfiniPort官网](https://console.infiniport.xyz/#/register?code=z6WYks0j)**
