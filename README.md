@@ -136,4 +136,4 @@
 
 # 高级玩法渠道（自用推荐）
 * **搭建ChatGPT24小时在线微信机器人**：选择[云服务器](https://curl.qcloud.com/AlTN7fIG)境外优选专区
-* **充值升级GPT4**:选择[虚拟信用卡](https://gpt.fomepay.com/#/pages/login/index?d=Z17066)
+* [GPT-4/plus升级详细步骤(附虚拟卡开通方法)](https://mp.weixin.qq.com/s/NTlUfhh-h6rvHfSlpQfhZQ)
