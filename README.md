@@ -134,6 +134,6 @@
 * 如果登录ChatGPT账号遇到报错，大都是因为使用的代理IP节点使用人数太多导致遭到封禁，更换节点或者机场便可。
 * 登录claude2账号，必须选择美国或英国节点
 
-# 高级玩法渠道（自用推荐）
-* **搭建ChatGPT24小时在线微信机器人**：选择[云服务器](https://curl.qcloud.com/AlTN7fIG)境外优选专区
+# 高级玩法
 * [GPT-4/plus升级详细步骤(附虚拟卡开通方法)](https://mp.weixin.qq.com/s/NTlUfhh-h6rvHfSlpQfhZQ)
+* [24小时在线ChatGPT微信机器人服务器部署教程](https://mp.weixin.qq.com/s/vx8L1HbCmGRCTaFnJFLKsg)
