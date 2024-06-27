@@ -116,10 +116,10 @@
 
 ## 客户端下载地址
 
-* Windows: [Clash for windows](https://oss.qwertyuiopzxcvbnm.club/client-download/Clashwin1.exe)；[V2ray客户端](https://wwi.lanzoui.com/icv7Idzymkj)
-*  macOS:[clashX](https://doget-api.oopscloud.xyz/api/download?token=eyJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vVGFpU2hhbjk5ODk4L2Rvd25sb2FkL3JlbGVhc2VzL2Rvd25sb2FkL2NsaWVudC9DbGFzaFguZG1nIn0.RalaxbyeIYxkb595dACO2lj9r9AT11LKbjDYReJye6A)；[V2ray客户端](https://wwi.lanzoub.com/iblgb1brmjri)
-*  安卓：[clash for android](https://oss.qwertyuiopzxcvbnm.club/client-download/clash.apk)；[V2ray客户端](https://wwi.lanzoub.com/iByKX1bst70h)
-*  iOS: [clash for iOS](https://apps.apple.com/app/stash/id1596063349)
+* Windows: [Clash for windows](https://oss.qwertyuiopzxcvbnm.club/client-download/Clashwin1.exe)
+*  macOS:[clashX](https://doget-api.oopscloud.xyz/api/download?token=eyJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vVGFpU2hhbjk5ODk4L2Rvd25sb2FkL3JlbGVhc2VzL2Rvd25sb2FkL2NsaWVudC9DbGFzaFguZG1nIn0.RalaxbyeIYxkb595dACO2lj9r9AT11LKbjDYReJye6A)
+*  安卓：[clash for android](https://oss.qwertyuiopzxcvbnm.club/client-download/clash.apk)
+*  iOS: [Shadowsocks](https://shadowsockshelp.github.io/Shadowsocks/appleid.html)
 
 -----
 
