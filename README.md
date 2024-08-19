@@ -118,6 +118,5 @@
 * 登录claude3账号，必须选择美国或英国节点。claude3注册账号容易被封禁，可采用下面方法免费使用claude3。
 
 # 高级玩法
-* [GPT-4/plus升级详细步骤(附虚拟卡开通方法)](https://mp.weixin.qq.com/s/NTlUfhh-h6rvHfSlpQfhZQ)
 * [24小时在线ChatGPT微信机器人服务器部署教程](https://mp.weixin.qq.com/s/vx8L1HbCmGRCTaFnJFLKsg)
 * [安全免费使用Claude-3教程](https://mp.weixin.qq.com/s/mwmbOu6DcvHIjp34nWe4Cg)
