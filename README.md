@@ -118,5 +118,6 @@
 * 登录claude3账号，必须选择美国或英国节点。claude3注册账号容易被封禁，可采用下面方法免费使用claude3。
 
 # 高级玩法
+* [虚拟信用卡推荐](https://mp.weixin.qq.com/s/Px3nVOt3HxTmo90gQ3vgtg)
 * [24小时在线ChatGPT微信机器人服务器部署教程](https://mp.weixin.qq.com/s/vx8L1HbCmGRCTaFnJFLKsg)
 * [安全免费使用Claude-3教程](https://mp.weixin.qq.com/s/mwmbOu6DcvHIjp34nWe4Cg)
