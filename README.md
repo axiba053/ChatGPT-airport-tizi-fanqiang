@@ -111,13 +111,10 @@
 
 -----
 
-# ChatGPT/claude3兼容性
+# ChatGPT兼容性
 
 * ChatGPT对网络要求较高，翻墙时尽量不要使用中国及附近节点。            
 * 如果登录ChatGPT账号遇到报错，大都是因为使用的代理IP节点使用人数太多导致遭到封禁，更换节点或者机场便可。
-* 登录claude3账号，必须选择美国或英国节点。claude3注册账号容易被封禁，可采用下面方法免费使用claude3。
 
-# 高级玩法
-* [虚拟信用卡推荐](https://mp.weixin.qq.com/s/Px3nVOt3HxTmo90gQ3vgtg)
-* [24小时在线ChatGPT微信机器人服务器部署教程](https://mp.weixin.qq.com/s/vx8L1HbCmGRCTaFnJFLKsg)
-* [安全免费使用Claude-3教程](https://mp.weixin.qq.com/s/mwmbOu6DcvHIjp34nWe4Cg)
+
+
