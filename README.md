@@ -25,7 +25,7 @@
 |60元|200G(不限时间)|500M|不限|
 
 
-### 2. cocoduck （推荐指数：⭐⭐⭐⭐）
+### 2. cocoduck （推荐指数：⭐⭐⭐）
 **[cocoduck官网](https://cocoduck.live/auth/register?code=ee980afcaa)**
 
 **注册就送2G试用流量**，可以免费使用一天。taishan用的人多卡时，也可以考虑选用这个，节点数量也不少。
@@ -78,7 +78,7 @@
 
 ## 二、 其他高性价比机场
 
-### 1. 白月光（推荐指数：⭐⭐⭐）
+### 1. 白月光（推荐指数：⭐⭐）
 超多可选节点，季度套餐，亦可按量购买。
 
 **[白月光官网](https://bygcloud.com/#/register?code=VMRodlEr)**
