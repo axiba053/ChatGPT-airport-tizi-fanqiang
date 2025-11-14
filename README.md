@@ -28,7 +28,7 @@
 ### 2. taishan（推荐指数：⭐⭐⭐⭐）
 我常用的2个机场之一，性价比很高，既有包月也有按量。**注册送1G试用流量**，限时3个小时，好用再购买。
 
-**[taishan官网](https://www.taishan.pro/#/register?code=OwPIgS5D)**
+**[taishan官网](https://jpcdn.ts2025.top/register?code=OwPIgS5D)**
 
 **套餐：** 其他套餐可官网自查。
 |价格|流量|速率|支持设备个数|
