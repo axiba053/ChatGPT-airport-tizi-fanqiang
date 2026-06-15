@@ -15,7 +15,7 @@
 ## 一、 推荐机场
 
 ### 1. cocoduck （推荐指数：⭐⭐⭐⭐⭐）
-**[cocoduck官网](https://www.cocoduck.live/auth/register?code=ee980afcaa)**
+**[cocoduck官网](https://cocoduck.live/auth/register?code=ee980afcaa)**
 
 **注册就送2G试用流量**，可以免费使用一天；另**赠送5元余额**，如果访问不了，可以**开全局模式再访问**。购买后，提供**免费的美区AppleID**。
 
