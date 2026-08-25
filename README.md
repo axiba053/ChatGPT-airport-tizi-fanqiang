@@ -14,7 +14,7 @@
 
 ## 一、 推荐机场
 
-### 1. cocoduck （推荐指数：⭐⭐⭐⭐⭐）
+### 1. cocoduck （推荐指数：⭐⭐⭐⭐）
 **[cocoduck官网](https://www.cocoduck.site/auth/register?code=ee980afcaa)**
 
 **[备选入口](https://cocoduck.live/auth/register?code=ee980afcaa)**
