@@ -206,12 +206,7 @@
 *  安卓：[clash for android](https://oss.qwertyuiopzxcvbnm.club/client-download/clash.apk)
 *  iOS: [Shadowsocks](https://shadowsockshelp.github.io/Shadowsocks/appleid.html)
 
------
 
-# ChatGPT兼容性
-
-* ChatGPT对网络要求较高，翻墙时尽量不要使用中国及附近节点。            
-* 如果登录ChatGPT账号遇到报错，大都是因为使用的代理IP节点使用人数太多导致遭到封禁，更换节点或者机场便可。
 
 
 
