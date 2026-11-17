@@ -13,7 +13,7 @@
 
 ## 一、 推荐机场
 
-### 1. cocoduck （推荐指数：⭐⭐⭐⭐）
+### 1. cocoduck （推荐指数：⭐⭐⭐⭐⭐）
 **[cocoduck官网](https://www.cocoduck.site/auth/register?code=ee980afcaa)**
 
 **[备选入口](https://cocoduck.live/auth/register?code=ee980afcaa)**
@@ -27,7 +27,7 @@
 |31元/月|200G|不限|不限|
 |77元/**年**|40G|不限|不限|
 
-### 2. 超实惠加速（推荐指数：⭐⭐⭐）
+### 2. 超实惠加速（推荐指数：⭐⭐⭐⭐）
 价格优惠，既有按月付费还有按量付费。只能用官方客户端。
 
 **[超实惠加速](https://cshjc.net/register?code=9ha8zoPl)**
